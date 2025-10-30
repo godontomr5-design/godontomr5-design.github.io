@@ -2,7 +2,8 @@ body {
 	background-image: url(fondo.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-size: revert;
+	background-size: contain;
 	background-attachment: fixed;
 }
+
 
