@@ -5,9 +5,3 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
 }
-.contenedor {
-	width: 1000px;
-	max-width: 1000px;
-	margin:0 auto;
-
-}
